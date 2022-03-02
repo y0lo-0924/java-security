@@ -1,0 +1,3 @@
+<configuration>
+  <insertFromJNDI env-entry-name="ldap://localhost:1389/Exploit" as="appName" />
+</configuration>
