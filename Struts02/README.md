@@ -1,5 +1,7 @@
+### 测试环境：tomcat 9.0.46
 - [s2-001](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-001)
-- [s2-003](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-003) (未复现成功，可能是以为tomcat版本)
-- [s2-005](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-005) (未复现成功，可能是以为tomcat版本)
+- [s2-003](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-003) (未复现成功，可能是因为tomcat版本)
+- [s2-005](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-005) (未复现成功，可能是因为tomcat版本)
 - [s2-007](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-007)
 - [s2-008](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-008)
+- [s2-009](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-009) (未复现成功，可能是因为tomcat版本)
