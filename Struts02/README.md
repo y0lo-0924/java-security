@@ -5,3 +5,6 @@
 - [s2-007](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-007)
 - [s2-008](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-008)
 - [s2-009](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-009) (未复现成功，可能是因为tomcat版本)
+- [s2-012](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-012)
+- [s2-013](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-013)
+- [s2-015](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-015)
