@@ -8,3 +8,8 @@
 - [s2-012](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-012)
 - [s2-013](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-013)
 - [s2-015](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-015)
+- [s2-016](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-016)
+- [s2-032](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-032)
+- [s2-045](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-045)
+- [s2-046](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-046)
+- [s2-052](https://github.com/y0lo-0924/java-security/tree/main/Struts02/Struts2-Vuln-Demo/s2-052)
